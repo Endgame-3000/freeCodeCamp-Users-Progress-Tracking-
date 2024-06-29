@@ -47,8 +47,6 @@ To use the script, follow these steps:
     - In the Apps Script editor, find the `updateStudentData` function.
     - Click the run button (►) to execute the function.
 
-## License
-Specify the license under which the project is distributed. For example, you might use the MIT License.
 
 ## Contact
-For any questions or issues, please contact [your email address].
+For any questions or issues, please contact ab.brzy.420@gmail.com .
